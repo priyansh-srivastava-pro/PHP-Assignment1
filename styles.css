@@ -1,0 +1,107 @@
+#grad {
+  height: 250px;
+  background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(255, 0, 0, 1));
+}
+
+.profile-picture {
+  width: 150px;
+}
+
+a {
+  font-family: serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.about {
+  padding: 1%;
+  background-color: #F7F6F2;
+}
+
+h1 {
+  font-family: serif;
+  color: #0A065D;
+}
+
+h2 {
+  color: #0A065D;
+}
+
+hr {
+  height: 2px;
+  border-width: 0;
+  color: black;
+  background-color: black;
+}
+
+p {
+  font-family: serif;
+  font-size: 1.2rem;
+}
+
+strong {
+  font-size: 1.3rem;
+}
+
+.profile {
+  padding: 1%;
+  background-color: #FFF6CD;
+}
+
+.history {
+  padding: 1%;
+  background-color: #E8F6EF;
+}
+
+.education {
+  padding: 1%;
+  background-color: #F7F6F2;
+}
+
+.volunteer {
+  padding: 1%;
+  background-color: #F3F0D7;
+}
+
+.projects {
+  padding: 1%;
+  background-color: #FCDEC0;
+}
+
+.skills {
+  padding: 1%;
+  background-color: #FEFFE2;
+}
+
+.edu {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.his {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+table {
+  font-family: monospace;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 1rem;
+}
+
+td {
+  text-align: center;
+  padding: 8px;
+}
+
+th {
+  text-align: center;
+  padding: 8px;
+}
